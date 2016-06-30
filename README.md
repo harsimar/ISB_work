@@ -1,2 +1,3 @@
-# data_visualization_tutorial
-Contains tutorial jupyter notebook files along with any data files that came with the tutorials.
+# ISB work
+The chromosome graph folder contains all of the graphs and jupyter notebook files that analyze that data from file_counts_20160615.txt. 
+
